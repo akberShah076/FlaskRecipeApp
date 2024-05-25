@@ -5,17 +5,16 @@ Simple web app that utilises Flask, and a spoonacular API call to fetch recipes 
 git clone https://github.com/akberShah076/FlaskRecipeApp.git
 cd FlaskRecipeApp
 
-2.
+2. Set Up a Virtual Environment: 
 python3 -m venv venv
 source venv/bin/activate
 
-3.
+3. Install Dependencies:
 python3 -m venv venv
 source venv/bin/activate
 
-4. 
+4. Run the Application:
 python test_app.py
 
-5.
-Access the Application:
+5. Access the Application:
 Open a web browser and go to http://127.0.0.1:5000/ to see the Flask app in action.
